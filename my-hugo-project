@@ -1,0 +1,9 @@
+my-hugo-project
+ | archtypes/
+ | content/
+ | data/
+ | layouts/
+ | public/
+ | static/
+ | themes/
+ | config.toml
